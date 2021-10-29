@@ -12,20 +12,17 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
----
-
-<p align="center">
-</p>
 ```cs
 local Dongs  = {'Games.','Coding.','Problem Solving.','Streaming.'}
 local Langs = {'JavaScript','lua','html5','css','SQL'}
-    
+	
 local doings = Dongs[math.random(1,#Dongs)]
-local LanguageShit = Langs[math.random(1,#Langs)]    
-    
-print("Couple Languages I know " ..LanguageShit)    
-    
+local LanguageShit = Langs[math.random(1,#Langs)]	
+	
+print("Couple Languages I know " ..LanguageShit)	
+	
 print("I like" ..doings)
+
 ```
 
 
